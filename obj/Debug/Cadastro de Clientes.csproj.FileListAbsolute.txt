@@ -1,0 +1,10 @@
+C:\Users\pedro\Documents\Trabalhos de Escola\2 ano\DS\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.exe.config
+C:\Users\pedro\Documents\Trabalhos de Escola\2 ano\DS\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.exe
+C:\Users\pedro\Documents\Trabalhos de Escola\2 ano\DS\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.pdb
+C:\Users\pedro\Documents\Trabalhos de Escola\2 ano\DS\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csprojAssemblyReference.cache
+C:\Users\pedro\Documents\Trabalhos de Escola\2 ano\DS\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Form1.resources
+C:\Users\pedro\Documents\Trabalhos de Escola\2 ano\DS\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Properties.Resources.resources
+C:\Users\pedro\Documents\Trabalhos de Escola\2 ano\DS\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csproj.GenerateResource.cache
+C:\Users\pedro\Documents\Trabalhos de Escola\2 ano\DS\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Trabalhos de Escola\2 ano\DS\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.exe
+C:\Users\pedro\Documents\Trabalhos de Escola\2 ano\DS\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.pdb
